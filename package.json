@@ -1,0 +1,19 @@
+{
+  "name": "cs-angualr-local-storage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wpitallo/cs-angualr-local-storage.git"
+  },
+  "author": "Warren Pitallo <wpitallo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wpitallo/cs-angualr-local-storage/issues"
+  },
+  "homepage": "https://github.com/wpitallo/cs-angualr-local-storage#readme"
+}
